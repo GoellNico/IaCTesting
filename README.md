@@ -1,6 +1,8 @@
 ### Overview 
 
 Pleaceholder for detecting testing anti-patterns in IaC 
+Using of Codacy Analysis CLI
+
 
 ### Contributors
 
